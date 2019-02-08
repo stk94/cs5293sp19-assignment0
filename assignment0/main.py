@@ -41,7 +41,7 @@ def extract_titles(promises: List[Dict[str, Any]]) -> List[str]:
 def random_title (titles: List[str]) -> str:
     """ This function takes list of titles and returns one string at random. """
     length = len(titles)
-    choice = random.randint(0,length)
+    choice = random.randint(0,length-1)
     return titles[choice]
 
 

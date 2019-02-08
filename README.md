@@ -4,18 +4,14 @@ Name: SAI TEJA KANNEGANTI
 Date: 02/07/2019
 
 
-Description of the project:
+Description of the Assignment:
 
-Here is how to run the code
-
-
-Here are few bugs in the code
+https://oudalab.github.io/textanalytics/homework/hw0
 
 
 Execution of code:
 
-
-
+code can be executed by the command "pipenv run python -m pytest" when pwd is cs5293sp19-assignment0
 
 Inspiration:
 
